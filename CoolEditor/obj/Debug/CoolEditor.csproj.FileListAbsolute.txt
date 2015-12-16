@@ -1,0 +1,416 @@
+c:\users\rb2rru\documents\visual studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Documents\Visual Studio 2013\Projects\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v2\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v2\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v2\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 - Copy\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\C# testing\CoolEditor -v3 stupid\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\CoolEditor - Copy\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\Snap.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\pskernel_net.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Copy - Copy\CoolEditor\bin\Debug\Snap.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\Snap.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\pskernel_net.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\bin\Debug\Snap.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v2\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\Snap.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\pskernel_net.dll
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\bin\Debug\Snap.xml
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\Cool Editor\CoolEditor -v6 intellisense - Robusted v3\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\Snap.dll
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\pskernel_net.dll
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\bin\Debug\Snap.xml
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\rb2rru\Desktop\CoolEditor -final\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+D:\public\AliceStuff\CoolEditor\CoolEditor\bin\Debug\CoolEditor.exe.config
+D:\public\AliceStuff\CoolEditor\CoolEditor\obj\Debug\CoolEditor.exe
+D:\public\AliceStuff\CoolEditor\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\Snap.dll
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\pskernel_net.dll
+C:\Users\rb2rru\Desktop\CoolEditor\CoolEditor\bin\Debug\Snap.xml
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\bin\Debug\CoolEditor.exe.config
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.exe
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.pdb
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Search.resources
+D:\public\AliceStuff\CoolEditor\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\CoolEditor.exe.config
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.exe
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.pdb
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\CoolEditor.exe
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\CoolEditor.pdb
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpen.dll
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpen.UF.dll
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpenUI.dll
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\Snap.dll
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\pskernel_net.dll
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpen.xml
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\NXOpenUI.xml
+L:\CoolEditor-10-13-2014\CoolEditor\bin\Debug\Snap.xml
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.Search.resources
+L:\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\ntpriv\Desktop\CoolEditor-10-13-2014\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\ntpriv\Desktop\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\ntpriv\Desktop\CoolEditor-10-13-2014\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\CoolEditor.exe.config
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.exe
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.pdb
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.Search.resources
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\CoolEditor.exe
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\CoolEditor.pdb
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpen.dll
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpen.UF.dll
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpen.Utilities.dll
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpenUI.dll
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\Snap.dll
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\pskernel_net.dll
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpen.xml
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\NXOpenUI.xml
+C:\Users\ntpriv\Desktop\Roslyn Project\CoolEditor-ultimate\CoolEditor\bin\Debug\Snap.xml
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\CoolEditor.exe.config
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.exe
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.pdb
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\CoolEditor.exe
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\CoolEditor.pdb
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\pskernel_net.dll
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\NXOpen.xml
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\NXOpen.Utilities.xml
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\NXOpenUI.xml
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\bin\Debug\Snap.xml
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.Form1.resources
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.intellisense_image.resources
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.Properties.Resources.resources
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.Replace.resources
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.Search.resources
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Roslyn Project\CoolEditor-ultimate-FINAL\CoolEditor\obj\Debug\CoolEditor.csproj.GenerateResource.Cache

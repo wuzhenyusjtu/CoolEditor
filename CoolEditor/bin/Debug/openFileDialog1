@@ -1,0 +1,21 @@
+usingSystem;
+usingSystem.Collections.Generic;
+usingSystem.ComponentModel;
+usingSystem.Data;
+usingSystem.Drawing;
+usingSystem.Linq;
+usingSystem.Text;
+usingSystem.Threading.Tasks;
+
+namespaceCoolEditor
+{
+    public partial class Form1 : Form
+    {
+        publicForm1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+
+
