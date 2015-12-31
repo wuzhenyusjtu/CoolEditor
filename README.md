@@ -1,6 +1,9 @@
 # CoolEditor
+
 Description:
 I finished this project during my internship in Siemens PLM Software, instructed by Dr. George Allen.
+
+############################################################################################################
 Installation:
 1. By installation package:
    Please see: 
