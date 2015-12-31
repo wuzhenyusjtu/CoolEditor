@@ -1,18 +1,18 @@
 # CoolEditor
 
-Description:
-I finished this project during my internship in Siemens PLM Software, instructed by Dr. George Allen.
+Description:<br />
+I finished this project during my internship in Siemens PLM Software, instructed by Dr. George Allen.<br />
 
-############################################################################################################
-Installation:
-1. By installation package:
-   Please see: 
-	.\.NET Compiler Platform (Roslyn) Preview for Visual Studio 2013\Roslyn SDK Preview\Readme
-2. By NuGet package manager console
-   NUGET  Install-Package Microsoft.CodeAnalysis -Pre
+############################################################################################################<br />
+Installation:<br />
+1. By installation package:<br />
+   Please see: <br />
+	.\.NET Compiler Platform (Roslyn) Preview for Visual Studio 2013\Roslyn SDK Preview\Readme<br />
+2. By NuGet package manager console<br />
+   NUGET  Install-Package Microsoft.CodeAnalysis -Pre<br />
 
-Access to source code;
-1. By git
+Access to source code;<br />
+1. By git<br />
    git clone https://git01.codeplex.com/roslyn
 2. Download from site:
    http://roslyn.codeplex.com/SourceControl/latest#BuildAndTest.proj
