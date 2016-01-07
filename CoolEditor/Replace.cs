@@ -18,9 +18,9 @@ namespace CoolEditor
         }
 
         public RichTextBox rtb;
-        int start = 0;//查找的起始位置
-        string str = "";//查找的内容
-        string str2 = ""; //替换
+        int start = 0;// Start position
+        string str = "";//Search
+        string str2 = ""; // Replace
         RichTextBoxFinds f;
         int i = 0;
 
@@ -46,14 +46,14 @@ namespace CoolEditor
             }
             else
             {
-                start = start + str.Length;//找到后从找到位置之后开始下一次
-                rtb.Focus(); //给予焦点
+                start = start + str.Length;//If found, start next from current position
+                rtb.Focus(); // Give focus
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            str = this.textBox1.Text;//找的内容
+            str = this.textBox1.Text;// Content for search
             str2 = this.textBox2.Text;
             start = rtb.Find(str, start, f);
             if (start == -1)
@@ -64,14 +64,14 @@ namespace CoolEditor
             else
             {
                 rtb.SelectedRtf = str2;
-                start = start + str.Length;//找到后从找到位置之后开始下一次
-                rtb.Focus(); //给予焦点
+                start = start + str.Length;// If found, start next from current position
+                rtb.Focus(); // Give focus
             }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            str = this.textBox1.Text;//找的内容
+            str = this.textBox1.Text;//Content for search
             str2 = this.textBox2.Text;
             start = rtb.Find(str, start, f);
             while (start != -1)
