@@ -33,8 +33,8 @@ namespace CoolEditor
             }
             else
             {
-                start = start + str.Length;//找到后从找到位置之后开始下一次
-                rtb.Focus(); //给予焦点
+                start = start + str.Length;//Start next from the current position
+                rtb.Focus(); // Give focus
             }
         }
 
